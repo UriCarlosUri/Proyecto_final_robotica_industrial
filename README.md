@@ -1,4 +1,4 @@
-# {Proyecto: Nombre del proyecto Hardware}
+# {Proyecto: Intelligent Palletizing System using a UR5 Robot arm}
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)![Not Maintained](https://img.shields.io/badge/status-not_maintained-lightgrey?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
